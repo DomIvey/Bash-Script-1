@@ -3,10 +3,9 @@
 ## What's Inside Script (nano bashscript.sh)
 #!/bin/bash
 
-#Weekly Server Update - Dominique Ivey 8.28.23
+Weekly Server Update - Dominique Ivey 8.28.23
 
 #Create a script that runs every Friday at 11pm CST that will update the server and create at new file with the upgradable packages
-
 
 # Update server every Friday at 11pm CST
 sudo apt-get update && sudo apt-get upgrade -y
@@ -14,7 +13,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 *22**5 sh /home/ubuntu/bashscript1.sh
 echo "Server updated"
 
-# Create a new file with the upgradable packages
+#Create a new file with the upgradable packages
 touch upgradedfiles
 *22**5 sh /home/ubuntu/bashscript1.sh &> upgradedfiles
 filename = upgradedfiles >> date +"%m_%d_%Y
@@ -22,6 +21,9 @@ echo "New file created"
 
 #Close
 echo "Done"
+
+![image](https://github.com/DomIvey/Bash-Script-1/assets/140740841/d14073ed-c025-4e7b-ae3f-4322b727520b)
+
 
 
 ## Commands Ran Within Terminal
