@@ -7,7 +7,7 @@ Weekly Server Update - Dominique Ivey 8.28.23
 
 #Create a script that runs every Friday at 11pm CST that will update the server and create at new file with the upgradable packages
 
-# Update server every Friday at 11pm CST
+#Update server every Friday at 11pm CST
 sudo apt-get update && sudo apt-get upgrade -y
 
 *22**5 sh /home/ubuntu/bashscript1.sh
