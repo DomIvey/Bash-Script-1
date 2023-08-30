@@ -28,6 +28,10 @@ echo "Done"
 
 ## Commands Ran Within Terminal
 
+![image](https://github.com/DomIvey/Bash-Script-1/assets/140740841/7651781e-b1f6-45e4-97b2-3c9fdbaa60f9)
+
+![image](https://github.com/DomIvey/Bash-Script-1/assets/140740841/a46ee490-eecb-4a75-89c4-bfffee4007d1)
+
 ![image](https://github.com/DomIvey/Bash-Script-1/assets/140740841/6dae8bf8-db9d-4e29-81ef-cd1eba430cc8)
 
 
