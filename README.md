@@ -28,6 +28,9 @@ echo "Done"
 
 ## Commands Ran Within Terminal
 
+![image](https://github.com/DomIvey/Bash-Script-1/assets/140740841/6dae8bf8-db9d-4e29-81ef-cd1eba430cc8)
+
+
 ubuntu@ip-172-31-47-29:~$ history
     1  pwd
     2  ls
